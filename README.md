@@ -9,4 +9,4 @@ You can download all the files in this repository (https://github.com/Aidywady/C
 For anybody unconvinced that these orbits can actually occur in the real world, here is a link to a cool YouTube video of a demo experiment done on the International Space Station (hosted on the NASA channel): https://www.youtube.com/watch?v=qHrBhgwq__Q
 
 Fun fact:
-For the spheres and disks, the charges are evenly distributed in the same way as plants distribute leaves around an axis. It using the golden ratio! (1.618)
+For the spheres and disks, the charges are evenly distributed in the same way as plants distribute leaves around an axis: using the golden ratio! (1.618)
